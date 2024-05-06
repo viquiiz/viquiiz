@@ -3,7 +3,7 @@
 
 <h2> Sobre mim </h2>
 
-<p align="justify">Oi! Meu nome é Victória, tenho 27 anos e sou do Rio Grande do Sul. Sou formada em Licenciatura em História porém estou em transição para a área da programação. Hoje sou estagiária na área de Análise de Dados e estudante do curso de Análise e Desenvolvimento de Sistemas. No meu GitHub você encontra projetos pessoais que desenvolvi para estudos, tanto de front-end (principalmente TypeScript/Angular) como back-end(principalmente Python) ^^</p>
+<p align="justify">Oi! Meu nome é Victória, tenho 27 anos e sou do Rio Grande do Sul. Sou formada em Licenciatura em História porém estou em transição para a área da programação. Hoje sou estagiária na área de Análise de Dados e estudante do curso de Análise e Desenvolvimento de Sistemas. Aqui no meu GitHub você encontra projetos pessoais que desenvolvi para estudos, tanto de front-end (principalmente TypeScript/Angular) como back-end (principalmente Python).</p>
 
 <br>
 <div align="center">
