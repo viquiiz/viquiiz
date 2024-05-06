@@ -1,5 +1,5 @@
 
-<img align="right" alt="Gif" height="500" src="https://i.pinimg.com/originals/b6/e9/7d/b6e97d9c28651e1c05f91637334563a5.gif">
+<img align="right" alt="Gif" height="400" src="https://i.pinimg.com/originals/b6/e9/7d/b6e97d9c28651e1c05f91637334563a5.gif">
 
 <h2> Sobre mim </h2>
 
