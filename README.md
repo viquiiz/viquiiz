@@ -3,7 +3,7 @@
 
 <h2> Sobre mim </h2>
 
-<p align="justify">Oi! Meu nome é Victória, tenho 27 anos e sou do Rio Grande do Sul. Sou formada em Licenciatura em História porém estou em transição para a área da programação. Hoje sou estagiária na área de Análise de Dados e estudante do curso de Análise e Desenvolvimento de Sistemas.</p>
+<p align="justify">Oi! Meu nome é Victória, tenho 27 anos e sou do Rio Grande do Sul. Venho da área das humanas - com uma licenciatura em História - e comecei a estudar programação por curiosidade. Me encontrei na área da tecnologia. Minhas vivências me levaram a me apaixonar pelos dados, mas também sou uma entusiasta na área de desenvolvimento web/front-end.</p>
 
 <div align="center">
   
@@ -22,6 +22,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=for-the-badge&logo=markdown&logoColor=FFAB33&color=FFF)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=FFAB33&color=FFF)
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=FFAB33&color=FFF)
+![GoogleCloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=FFAB33&color=FFF)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=FFAB33&color=FFF)
 
 </div>
